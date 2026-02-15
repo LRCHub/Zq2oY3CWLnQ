@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "アウターサイエンス",
+  "base_artist": "じん",
+  "createdAt": "2026-02-15T04:27:25.761839Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アウターサイエンス",
+      "artist": "じん ft. ONE",
+      "has_synced": true,
+      "path": "select/01_アウターサイエンス_じん_ft._ONE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アウターサイエンス",
+      "artist": "Jin",
+      "has_synced": false,
+      "path": "select/02_アウターサイエンス_Jin.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アウターサイエンス",
+      "artist": "じん feat. ONE",
+      "has_synced": true,
+      "path": "select/03_アウターサイエンス_じん_feat._ONE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アウターサイエンス",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/04_アウターサイエンス_Various.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アウターサイエンス",
+      "artist": "IA",
+      "has_synced": true,
+      "path": "select/05_アウターサイエンス_IA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アウターサイエンス",
+      "artist": "じん",
+      "has_synced": false,
+      "path": "select/pl_01_アウターサイエンス_じん.txt"
+    }
+  ]
+}
